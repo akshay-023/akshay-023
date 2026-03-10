@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Full-stack development, MVP building, and turning ideas into shipped products.**
 
-- 📫 How to reach me **raaviakshay1@gmail.com**
+- 📫 How to reach me **akshay.raavi.dev@gmail.com**
 
 - ⚡ Fun fact **I think I’m funny, but my code is even funnier 😄**
 
